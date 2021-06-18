@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ArrayOfTask xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Task>
+    <TaskName>test</TaskName>
+  </Task>
+  <Task>
+    <TaskName>test1</TaskName>
+  </Task>
+  <Task>
+    <TaskName>test2</TaskName>
+  </Task>
+</ArrayOfTask>
